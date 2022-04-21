@@ -19,5 +19,15 @@ App que ira mostrar as informações como arquitetura, sistema operacional, tota
 ### Inicializar
 
 ```sh
+# clone o projeto 
   git clone https://git.com/feliper-silva/app_nodejs
 ```
+```sh
+# entre na pasta do projeto
+  cd app_nodejs
+```
+```sh
+# entre na pasta src é inicialize com o node o arquivo server.js
+  node server.js
+```
+
